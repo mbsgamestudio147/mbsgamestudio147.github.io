@@ -58,12 +58,12 @@ loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 media.net, 8CAXEGFDP, RESELLER
 media.net, 8CU5L226O, RESELLER
-media.net, 8cu675n41, RESELLER
+media.net, 8CU675N41, RESELLER
 media.net, 8CU9B72O6, RESELLER
 media.net, 8CUF7U34W, RESELLER
-media.net, 8cuh46n56, RESELLER
-media.net, 8cusc3uj7, RESELLER
-media.net, 8cuuq286l, RESELLER
+media.net, 8CUH46N56, RESELLER
+media.net, 8CUSC3UJ7, RESELLER
+media.net, 8CUUQ286L, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33149, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf5001, RESELLER
 monetrix.ai, 10761, RESELLER
@@ -169,9 +169,9 @@ taurusx.com, 70097, RESELLER
 taurusx.com, 80068, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
-themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
-themediagrid.com, falino, RESELLER, 9fac4a4a87c2a44f
-themediagrid.com, jvhg38, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
 thunder-monetize.com, 2158729563, RESELLER
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 triplelift.com, 12158, RESELLER, 6c33edb13117fd86
@@ -180,7 +180,7 @@ triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 triplelift.com, 14594, RESELLER, 6c33edb13117fd86
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
-triplelift.com, 14705-eb, RESELLER
+triplelift.com, 14705-EB, RESELLER
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 triplelift.com, 14798, RESELLER, 6c33edb13117fd86
